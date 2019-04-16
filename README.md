@@ -20,9 +20,11 @@ An application developed using VB6,  that enables to do group chat in the same L
      TIME
     ```
 
+---
+
 ### Requirements :
-  - [VB6 (Windows)](https://www.microsoft.com/en-us/download/details.aspx?id=5721)  
-  - [MS Access](https://microsoft-access-2010.en.softonic.com/)
+  * [VB6 (Windows)](https://www.microsoft.com/en-us/download/details.aspx?id=5721)  
+  * [MS Access](https://microsoft-access-2010.en.softonic.com/)
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
 
