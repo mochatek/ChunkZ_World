@@ -26,7 +26,13 @@ An application developed using VB6,  that enables to do group chat in the same L
   * [VB6 (Windows)](https://www.microsoft.com/en-us/download/details.aspx?id=5721)  
   * [MS Access](https://microsoft-access-2010.en.softonic.com/)
 
+## Screenshots :
+![screenshot 1](https://github.com/mochatek/ChunkZ_World/blob/master/Screenshot1.PNG)
+
+![screenshot 2](https://github.com/mochatek/ChunkZ_World/blob/master/Screenshot2.PNG)
+  
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
+
 
 
   
