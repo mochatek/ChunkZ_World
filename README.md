@@ -5,7 +5,7 @@ An application developed using VB6,  that enables to do group chat in the same L
 - Copy the files to the shared folder.
 - Launch the application from there.
 - Register using username and password.
-- Login using user credentials.
+- Login using user credentials :closed_lock_with_key:.
 - Chat.. :stuck_out_tongue_winking_eye: Enjoy !!
 
 ---
